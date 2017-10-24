@@ -47,3 +47,16 @@ public class triangolox {
 			System.out.println("L'altezza inserita è di cm:  "+altezza);
 			System.out.println("L'area del triangolo sarà di cm:  ");
 			System.out.println(base*altezza/2);
+			
+			
+			
+			
+			
+			
+
+	
+}
+		
+}
+		
+	
